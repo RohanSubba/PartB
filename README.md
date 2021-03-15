@@ -1,2 +1,2 @@
 # PartB
-<img src="task1.png" width="250" height="400">
+<img src="task1.png" width="400" height="250">
