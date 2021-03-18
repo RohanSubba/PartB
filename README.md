@@ -3,5 +3,5 @@
 <img src="images/hellotost2.png" width="250" height="400">
 <img src="images/hellotost3.png" width="250" height="400">
 <img src="images/codingchallenge.png" width="250" height="400">
-<img src="images/tabhor.png" width="500" height="250">
+<img src="images/tab_hor.png" width="500" height="250">
 <img src="images/codingchallengehor.png" width="500" height="250">
